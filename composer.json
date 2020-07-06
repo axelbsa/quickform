@@ -15,8 +15,13 @@
         "php": ">5.3"
     },
     "autoload": {
-        "classmap": ["lib"]
+        "classmap": [
+            ""
+        ]
     },
+    "include-path": [
+        "/"
+    ],
     "extra": {
         "branch-alias": {
             "dev-master": "3.3.x-dev"
