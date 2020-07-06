@@ -20,7 +20,7 @@
         ]
     },
     "include-path": [
-        "/"
+        "/lib/"
     ],
     "extra": {
         "branch-alias": {
